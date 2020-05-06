@@ -1,3 +1,4 @@
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/Devops.png)
 # Problem Statement
 Set up an environment such that there are there teams
 
@@ -50,17 +51,31 @@ The developer will deploy the code first on github and as soon as the changes ar
 
 6.Start jenkins and create new job named job1 for the testing environment and follow the configrations shown in the figure.
 
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image1.png)
 
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image2.png)
 
-
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image3.png)
 
 7. After this make another job for the Quality Assurance and follow along.
 
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image4.png)
 
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image5.png)
+
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image6.png)
+
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image7.png)
 
 
 8.  And lastly create a third job that will be deployed only if the second job builds successfully.
 
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image8.png)
 
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image9.png)
 
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image10.png)
 
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image11.png)
+
+![](https://github.com/SuhaniArora/Jenkins-Docker/blob/master/images/image_docker.png)
